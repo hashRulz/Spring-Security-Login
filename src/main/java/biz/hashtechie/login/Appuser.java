@@ -1,5 +1,6 @@
 package biz.hashtechie.login;
 
+import biz.hashtechie.login.constants.AppUserRole;
 import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

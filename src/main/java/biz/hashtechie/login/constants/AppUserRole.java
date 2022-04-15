@@ -1,4 +1,4 @@
-package biz.hashtechie.login;
+package biz.hashtechie.login.constants;
 
 public enum  AppUserRole {
     USER,
